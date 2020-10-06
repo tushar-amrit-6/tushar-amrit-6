@@ -19,7 +19,7 @@
 
 
 <br />
-<img align="right" alt="GIF" src="https://github.com/tushar-amrit-6/tushar-amrit-6/blob/master/rick.gif" />
+<img align="right" alt="GIF" src="https://github.com/darshan-jain/darshan-jain/blob/master/rick.gif" />
 
 ### I am Tushar Amrit
 - An Android Developer & BlockChain enthusiast.
