@@ -23,7 +23,7 @@
 
 ### I am Tushar Amrit
 - An Android Developer & BlockChain enthusiast.
-- A Computer Engineering Undergraduate Student. 
+- A Computer Engineering Undergraduate at NIT Bhopal. 
 - Currently working on some of my side projects based on Web Development and Blockchain.
 - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
 
