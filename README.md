@@ -13,7 +13,7 @@
   <img align="left" alt="Tushar's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-<a href="tushar.amrit.6@gmail.com">
+<a href="mailto: tushar.amrit.6@gmail.com">
   <img align="left" alt="Tushar's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 
