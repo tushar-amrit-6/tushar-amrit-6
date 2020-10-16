@@ -13,8 +13,8 @@
   <img align="left" alt="Tushar's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-<a href="https://t.me/tushar_amrit_6">
-  <img align="left" alt="Tushar's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+<a href="tushar.amrit.6@gmail.com">
+  <img align="left" alt="Tushar's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 
 
@@ -22,9 +22,9 @@
 <img align="right" alt="GIF" src="https://github.com/darshan-jain/darshan-jain/blob/master/rick.gif" />
 
 ### I am Tushar Amrit
-- An Android Developer & BlockChain enthusiast.
-- A Computer Engineering Undergraduate at NIT Bhopal. 
-- Currently working on some of my side projects based on Web Development and Blockchain.
-- I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
+- An Android Developer & BlockChain enthusiast👨‍💻
+- A Computer Engineering Undergraduate at NIT Bhopal🎓
+- Currently working on some of my side projects based on Web Development and Blockchain💻
+- I'm currently looking for opportunities. I love to learn and contribute in any and every possible way🏦
 
 ⭐️ Visit my [Portfolio](https://tushar-amrit-6.github.io/PortFolio/) website
