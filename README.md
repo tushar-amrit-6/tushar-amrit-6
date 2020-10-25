@@ -27,4 +27,4 @@
 - Currently working on some of my side projects based on Web Development and Blockchain💻
 - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way🏦
 
-⭐️ Visit my [Portfolio](https://tushar-amrit-6.github.io/PortFolio/) website
+
