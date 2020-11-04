@@ -1,4 +1,5 @@
 ## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=tushar-amrit-6.visitor-badge)](https://github.com/tushar-amrit-6)
 
 <a href="https://twitter.com/_pablo_chocobar">
   <img align="left" alt="Tushar's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -28,3 +29,4 @@
 - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way🏦
 
 
+<img src="https://github-readme-stats.vercel.app/api?username=tushar-amrit-6&show_icons=true" alt="rushar" /> </p>
