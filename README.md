@@ -28,5 +28,7 @@
 - Currently working on some of my side projects based on Web Development and Blockchain💻
 - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way🏦
 
+<br/>
+<br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=tushar-amrit-6&show_icons=true" alt="rushar" /> </p>
+<img  src="https://github-readme-stats.vercel.app/api?username=tushar-amrit-6&show_icons=true" alt="rushar" /> </p>
