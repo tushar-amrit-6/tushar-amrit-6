@@ -1,7 +1,7 @@
 ## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=tushar-amrit-6.visitor-badge)](https://github.com/tushar-amrit-6)
 
-<a href="https://twitter.com/_pablo_chocobar">
+<a href="https://twitter.com/pyaaraacetamol">
   <img align="left" alt="Tushar's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/tushar-amrit-618427190/">
@@ -23,7 +23,7 @@
 <img align="right" alt="GIF" src="https://github.com/darshan-jain/darshan-jain/blob/master/rick.gif" />
 
 ### I am Tushar Amrit
-- An Android Developer & BlockChain enthusiast👨‍💻
+- An aspiring Software Developer & BlockChain enthusiast👨‍💻
 - A Computer Engineering Undergraduate at NIT Bhopal🎓
 - Currently working on some of my side projects based on Web Development and Blockchain💻
 - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way🏦
@@ -31,4 +31,3 @@
 <br/>
 <br/>
 
-<img  src="https://github-readme-stats.vercel.app/api?username=tushar-amrit-6&show_icons=true" alt="rushar" /> </p>
