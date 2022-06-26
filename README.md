@@ -23,10 +23,12 @@
 <img align="right" alt="GIF" src="https://github.com/darshan-jain/darshan-jain/blob/master/rick.gif" />
 
 ### I am Tushar Amrit
-- An aspiring Software Developer & BlockChain enthusiast👨‍💻
-- A Computer Engineering Undergraduate at NIT Bhopal🎓
-- Currently working on some of my side projects based on Web Development and Blockchain💻
-- I'm currently looking for opportunities. I love to learn and contribute in any and every possible way🏦
+- A Software Developer at Bloomberg
+- Worked previously at Flipkart and Deutsche Bank
+- Computer Science Batch of 2022 at NIT Bhopal🎓
+- Loves reading about designing of Data intensive large scale services
+- Currently working on some of my side projects based on Java Backend
+- Always looking for new opportunities. I love to learn and contribute in any and every possible way🏦
 
 <br/>
 <br/>
