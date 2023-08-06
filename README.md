@@ -1,5 +1,4 @@
 ## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=tushar-amrit-6.visitor-badge)](https://github.com/tushar-amrit-6)
 
 <a href="https://twitter.com/pyaaraacetamol">
   <img align="left" alt="Tushar's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -23,12 +22,14 @@
 <img align="right" alt="GIF" src="https://github.com/darshan-jain/darshan-jain/blob/master/rick.gif" />
 
 ### I am Tushar Amrit
-- A Software Developer at Bloomberg
+- Software Developer at Bloomberg
 - Worked previously at Flipkart and Deutsche Bank
 - Computer Science Batch of 2022 at NIT Bhopal🎓
-- Loves reading about designing of Data intensive large scale services
-- Currently working on some of my side projects based on Java Backend
-- Always looking for new opportunities. I love to learn and contribute in any and every possible way🏦
+- Loves reading about distributed systems and database internals 
+- Currently in search of good side projects in Java and GoLang
+- Always looking for new opportunities. Love to learn and contribute in any and every possible way🏦
+
+### Visit my Blog : http://techelixir.online/
 
 <br/>
 <br/>
