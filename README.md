@@ -29,7 +29,7 @@
 - Currently in search of good side projects in Java and GoLang
 - Always looking for new opportunities. Love to learn and contribute in any and every possible way🏦
 
-### Visit my Blog : http://techelixir.netlify.app/
+### Visit my Blog : http://tech-elixir.netlify.app/
 
 <br/>
 <br/>
