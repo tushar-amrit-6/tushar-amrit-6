@@ -9,9 +9,6 @@
 <a href="https://github.com/tushar-amrit-6">
   <img align="left" alt="Tushar's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://www.instagram.com/tushar_amrit/">
-  <img align="left" alt="Tushar's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
 
 <a href="mailto: tushar.amrit.6@gmail.com">
   <img align="left" alt="Tushar's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
@@ -22,11 +19,11 @@
 <img align="right" alt="GIF" src="https://github.com/darshan-jain/darshan-jain/blob/master/rick.gif" />
 
 ### I am Tushar Amrit
-- Software Developer at Bloomberg
-- Worked previously at Flipkart and Deutsche Bank
+- GenAI Engineer at Abnormal AI
+- Worked previously at Bloomberg, Flipkart and Deutsche Bank
 - Computer Science Batch of 2022 at NIT Bhopal🎓
-- Loves reading about distributed systems and database internals 
-- Currently in search of good side projects in Java and GoLang
+- Loves reading about Distributed systems, Database Internals and LLMs
+- Currently in search of good side projects using LLMs
 - Always looking for new opportunities. Love to learn and contribute in any and every possible way🏦
 
 ### Visit my Blog : http://tech-elixir.netlify.app/
